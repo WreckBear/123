@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <LinearLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="200dp"
+        android:background="#39ABDD"
+        android:orientation="vertical"
+        android:gravity="center">
+        
+        <ImageView 
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:src="@drawable/t536xhp5"/>
+        
+        <TextView 
+            android:layout_marginTop="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#ffffff"
+            android:textSize="17sp"
+            android:text="小   花"/>
+    </LinearLayout>
+    
+    <ListView 
+        android:id="@+id/allinfo"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        >
+    </ListView>
+
+</LinearLayout>

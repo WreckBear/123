@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">dianming</string>
+	<string name="buutonText">导入文件</string>
+	<string name="shuoming">课堂点名</string>
+	<string name="denglu">登录</string>
+	<string name="userName">用户名</string>
+	<string name="passWord">密码</string>
+	<string name="daoru">导入</string>
+	<string name="dianming">点名</string>
+	<string name="tongji">统计</string>
+	<string name="suiji">随机</string>
+	<string name="heimingdan">黑名单</string>
+	<string name="gengduo">更多</string>
+	
+</resources>
